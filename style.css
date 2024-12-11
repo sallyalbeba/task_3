@@ -1,0 +1,145 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.home{
+    background-image: url("images/images/bg-header-mobile.png");
+    background-size: cover;
+    background-position: center center;
+    height: auto;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.one img{
+    width: 50px;
+}
+.one{
+    width: 50%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+   
+}
+p{
+    color: gray;
+    font-size: small;
+}
+button{
+    padding: 8px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    width: 140px;
+    border: none;
+    color: white;
+    margin: 10px 0;
+    
+}
+.btn1{
+    background-color: lightseagreen;
+}
+.btn2{
+    background-color: rgb(114, 131, 217);
+}
+.two{
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 35px;
+    text-align: center;
+}
+.img{
+    width: 45%;
+    float: left;
+}
+.txt{
+    width: 45%;
+    float: right;
+    line-height: 40px;
+  
+}
+
+.clear{
+    clear: both;
+}
+.img img{
+    width: 100%;
+}
+.four{
+    text-align: center;
+    padding: 20px;
+}
+.four img{
+    margin: 30px;
+    width: 70%;
+}
+.five{
+    text-align: center;
+  
+}
+.inner{
+    width: 33%;
+    float: left;
+    text-align: center;
+    margin: auto;
+    
+}
+
+.inner img{
+    height: 32px;
+}
+.img2{
+    width: 20%;
+    float: left;    
+}
+.img2 img{
+    width: 40%;
+   
+}
+.imgs{
+    
+    text-align: center;
+}
+.emp{
+    height: 100px;
+}
+.download{
+    text-align: center;
+    margin: 30px;
+}
+.footer{
+    background-color: rgb(242, 239, 239);
+    padding: 15px;
+}
+ul{
+    margin: 0;
+    
+    list-style: none;
+    float: left;
+    width: 25%;
+    text-align: justify;
+}
+.img3{
+    width: 15%;
+    float: left;
+    text-align: left;
+}
+.img3 img{
+    width: 50px;
+    float: right;
+}
+.text{
+    width: 50%;
+    float: left;
+    text-align: center;  
+}
+.logo{
+    width:35% ;
+    float: left;
+    text-align: center;
+}
+.logo img{
+    padding: 10px;
+}
